@@ -1,0 +1,115 @@
+/* ====Nyghtserif==== */
+@font-face {
+  font-family: 'NyghtSerif';
+  src: url('../fonts/NyghtSerif-Bold.woff');
+  src: url('../fonts/NyghtSerif-Bold.woff2');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'NyghtSerif-italic';
+  src: url('../fonts/NyghtSerif-BoldItalic.woff');
+  src: url('../fonts/NyghtSerif-BoldItalic.woff2');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'NyghtSerif';
+  src: url('../fonts/NyghtSerif-Dark.woff');
+  src: url('../fonts/NyghtSerif-Dark.woff2');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'NyghtSerif-italic';
+  src: url('../fonts/NyghtSerif-DarkItalic.woff');
+  src: url('../fonts/NyghtSerif-DarkItalic.woff2');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'NyghtSerif';
+  src: url('../fonts/NyghtSerif-Light.woff');
+  src: url('../fonts/NyghtSerif-Light.woff2');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'NyghtSerif-italic';
+  src: url('../fonts/NyghtSerif-LightItalic.woff');
+  src: url('../fonts/NyghtSerif-LightItalic.woff2');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'NyghtSerif';
+  src: url('../fonts/NyghtSerif-Medium.woff');
+  src: url('../fonts/NyghtSerif-Medium.woff2');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'NyghtSerif-italic';
+  src: url('../fonts/NyghtSerif-MediumItalic.woff');
+  src: url('../fonts/NyghtSerif-MediumItalic.woff2');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'NyghtSerif-italic';
+  src: url('../fonts/NyghtSerif-RegularItalic.woff');
+  src: url('../fonts/NyghtSerif-RegularItalic.woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'NyghtSerif';
+  src: url('../fonts/NyghtSerif-Regular.woff');
+  src: url('../fonts/NyghtSerif-Regular.woff2');
+  font-weight: 400;
+}
+
+
+/* ==================== nyghtserif ========================== */
+
+@font-face {
+  font-family: 'generalsans';
+  src: url('../fonts/GeneralSans-BoldItalic.otf');
+  src: url('../fonts/GeneralSans-Bold.otf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'generalsans';
+  src: url('../fonts/GeneralSans-ExtralightItalic.otf');
+  src: url('../fonts/GeneralSans-Extralight.otf');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'generalsans';
+  src: url('../fonts/GeneralSans-LightItalic.otf');
+  src: url('../fonts/GeneralSans-Light.otf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'generalsans';
+  src: url('../fonts/GeneralSans-MediumItalic.otf');
+  src: url('../fonts/GeneralSans-Medium.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'generalsans';
+  src: url('../fonts/GeneralSans-SemiboldItalic.otf');
+  src: url('../fonts/GeneralSans-Semibold.otf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'generalsans';
+  src: url('../fonts/GeneralSans-Light.otf');
+  src: url('../fonts/GeneralSans-Regular.otf');
+  font-weight: 400;
+}
